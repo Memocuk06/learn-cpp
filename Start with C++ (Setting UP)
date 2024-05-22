@@ -1,0 +1,6 @@
+First things first, you have to have a c++ compiler and an IDE installed on your pc. this could be GNU Compiler collection or the easy one, The Visual Studio Microsoft C++ Compiler.
+You can download and install Visual Studio and tick the Desktop C++ Development to start coding in C++! 
+Download Visual Studio Community version from here: https://visualstudio.microsoft.com/downloads/
+
+After that you will start Visual Studio and a page appears asking you to Create, Open a Project and Clone a repository. We gonna click on the Create a new project, and select Console App Template.
+Then give your project a name, choose the location of your repo, and you are good to go!
